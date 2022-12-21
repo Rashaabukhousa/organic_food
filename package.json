@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "bootstrap": "^4.6.2",
+    "font-awesome": "^4.7.0"
+  },
+  "name": "food_shop",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
